@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24b180df2fb327f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "290961b56b8843e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbd302213efa47df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "91f39c06f9f5a42f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "351625dd735fe4b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.5
+  },
+  "right": {
+    "id": "dba12cd18a39f66f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f9ccde266ccfcf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4532f1c869472467",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "e168f0f65ba20bc8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "161d94cfde15e822",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dfc59a37ae4ec4f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "3f020e6d90a53198",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "GO/go/Go.md",
+    "Без названия/дрон.md",
+    "Без названия",
+    "go/шпаргалкы/4. Go Flow control/1. Conditional.md",
+    "go/шпаргалкы/3. Go Strings/3. Function examples.md",
+    "go/шпаргалкы/3. Go Strings/2. fmt.Printf.md",
+    "go/шпаргалкы/3. Go Strings/1. Strings function.md",
+    "go/шпаргалкы/2. Go Basic types/8. Type conversions.md",
+    "go/шпаргалкы/2. Go Basic types/7. Constants.md",
+    "go/шпаргалкы/2. Go Basic types/6. Slices.md",
+    "go/шпаргалкы/2. Go Basic types/5. Pointers.md",
+    "go/шпаргалкы/2. Go Basic types/4. Arrays.md",
+    "go/шпаргалкы/2. Go Basic types/3. Booleans.md",
+    "go/шпаргалкы/2. Go Basic types/2. Numbers.md",
+    "go/шпаргалкы/2. Go Basic types/1. Strings.md",
+    "go/шпаргалкы/1. Getting Started/5. If statement.md",
+    "go/шпаргалкы/1. Getting Started/4. Comments.md",
+    "go/шпаргалкы/1. Getting Started/3. Functions.md",
+    "go/шпаргалкы/1. Getting Started/2. Variables.md",
+    "go/шпаргалкы/1. Getting Started/1. hello.go.md",
+    "go/документация/Функции и их параметры/5. Замыкания.md",
+    "go/документация/Функции и их параметры/4. Анонимные функции.md",
+    "go/документация/Функции и их параметры/3. Тип функции. Функция как параметр и результат функции.md",
+    "go/документация/Функции и их параметры/2. Возвращение результата из функции.md",
+    "go/документация/Функции и их параметры/1. Функции и их параметры.md",
+    "go/документация/2. Основы языка Go/9. Операции присвоения. Приоритет операций.md",
+    "go/документация/2. Основы языка Go/8. Поразрядные операции.md",
+    "go/шпаргалкы/4. Go Flow control",
+    "go/шпаргалкы/3. Go Strings",
+    "go/шпаргалкы/2. Go Basic types",
+    "go/шпаргалкы/1. Getting Started",
+    "go/документация/Функции и их параметры",
+    "go/документация/2. Основы языка Go",
+    "go/документация/1. Введение в язык Go",
+    "go/шпаргалкы",
+    "go/документация"
+  ]
+}
