@@ -11,13 +11,42 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "GO/go/шпаргалкы/Go More Operators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Go More Operators"
+            }
+          },
+          {
+            "id": "339d3dc64bb80a53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GO/go/Go.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Go"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "dba12cd18a39f66f",
@@ -165,7 +193,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -173,46 +200,50 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "339d3dc64bb80a53",
   "lastOpenFiles": [
-    "go/Go.md",
-    "Go_Documentation_Obsidian (1).zip",
-    "Не подтвержден 205369.crdownload",
-    "Go_Documentation_Obsidian.zip",
-    "Не подтвержден 93019.crdownload",
-    "go/шпаргалкы/1. Getting Started.md",
-    "go/Шпаргалкы.md",
-    "go/Источники.md",
-    "go/шпаргалкы/1. Getting Started/1. hello.go.md",
-    "go/документация/2. Основы языка Go.md",
-    "go/Урок 17 - DDL и DML.pdf",
-    "go/Не подтвержден 322955.crdownload",
-    "go/документация/локальные библиотеки.md",
-    "go/документация/0. Документация.md",
-    "Statements in if.md",
-    "go/шпаргалкы/4. Go Flow control.md",
-    "go/шпаргалкы/4. Go Flow control/1. Conditional.md",
-    "go/шпаргалкы/3. Go Strings.md",
-    "go/документация/переключатель типов.md",
-    "go/шпаргалкы/4. Go Flow control",
-    "go/шпаргалкы/3. Go Strings/3. Function examples.md",
-    "go/шпаргалкы/3. Go Strings/2. fmt.Printf.md",
-    "go/шпаргалкы/3. Go Strings",
-    "go/шпаргалкы/2. Go Basic types/8. Type conversions.md",
-    "go/шпаргалкы/2. Go Basic types/7. Constants.md",
-    "go/шпаргалкы/2. Go Basic types/6. Slices.md",
-    "go/шпаргалкы/2. Go Basic types/5. Pointers.md",
-    "go/шпаргалкы/2. Go Basic types/4. Arrays.md",
-    "go/шпаргалкы/2. Go Basic types/3. Booleans.md",
-    "go/шпаргалкы/2. Go Basic types/2. Numbers.md",
-    "go/шпаргалкы/2. Go Basic types/1. Strings.md",
-    "go/шпаргалкы/2. Go Basic types.md",
-    "go/шпаргалкы/1. Getting Started/5. If statement.md",
-    "go/шпаргалкы/1. Getting Started/4. Comments.md",
-    "go/Не подтвержден 703443.crdownload",
-    "go/шпаргалкы/2. Go Basic types"
+    "GO/go/шпаргалкы/переключатель типов.md",
+    "GO/go/документация/3. Функции.md",
+    "GO/go/шпаргалкы/локальные библиотеки.md",
+    "GO/go/шпаргалкы/0. Шпаргалкы Go.md",
+    "GO/go/шпаргалкы/Go ООП v1.md",
+    "GO/go/Go.md",
+    "GO/go/шпаргалкы/🚀 Большая шпаргалка по Go (Golang).md",
+    "GO/go/Концепции.md",
+    "GO/go/шпаргалкы/1. Getting Started.md",
+    "Урок 17 - DDL и DML.pdf",
+    "Go_Documentation_Obsidian/Go_Docs/Go_Documentation_MOC.md",
+    "Go_Documentation_Obsidian (1)/Go_Docs/Go_Documentation_MOC.md",
+    "Go_Documentation_Obsidian (1)/Go_Docs/06_Standard_Library/02_Context.md",
+    "Go_Documentation_Obsidian (1)/Go_Docs/06_Standard_Library/01_Standard_Library_Overview.md",
+    "Go_Documentation_Obsidian (1)/Go_Docs/06_Standard_Library",
+    "Go_Documentation_Obsidian (1)/Go_Docs/05_Advanced_Topics/03_Generics.md",
+    "Go_Documentation_Obsidian (1)/Go_Docs/05_Advanced_Topics/02_Pointers.md",
+    "Go_Documentation_Obsidian (1)/Go_Docs/05_Advanced_Topics/01_Error_Handling.md",
+    "Go_Documentation_Obsidian (1)/Go_Docs/05_Advanced_Topics",
+    "Go_Documentation_Obsidian (1)/Go_Docs/04_Concurrency/03_Select.md",
+    "Go_Documentation_Obsidian (1)/Go_Docs/04_Concurrency/02_Channels.md",
+    "Go_Documentation_Obsidian (1)/Go_Docs/04_Concurrency/01_Goroutines.md",
+    "Go_Documentation_Obsidian (1)/Go_Docs/04_Concurrency",
+    "Go_Documentation_Obsidian (1)/Go_Docs/03_Methods_and_Interfaces/02_Interfaces.md",
+    "Go_Documentation_Obsidian (1)/Go_Docs/03_Methods_and_Interfaces/01_Methods.md",
+    "Go_Documentation_Obsidian (1)/Go_Docs/03_Methods_and_Interfaces",
+    "Go_Documentation_Obsidian (1)/Go_Docs/02_Data_Structures/03_Structs.md",
+    "Go_Documentation_Obsidian (1)/Go_Docs/02_Data_Structures/02_Maps.md",
+    "Go_Documentation_Obsidian (1)/Go_Docs/02_Data_Structures/01_Arrays_and_Slices.md",
+    "Go_Documentation_Obsidian (1)/Go_Docs/02_Data_Structures",
+    "Go_Documentation_Obsidian (1)/Go_Docs/01_Basics/04_Functions.md",
+    "Go_Documentation_Obsidian (1)/Go_Docs/01_Basics/03_Control_Flow.md",
+    "Go_Documentation_Obsidian (1)/Go_Docs/01_Basics",
+    "Go_Documentation_Obsidian (1)/Go_Docs",
+    "Go_Documentation_Obsidian (1)",
+    "Go_Documentation_Obsidian/Go_Docs/06_Standard_Library"
   ]
 }
